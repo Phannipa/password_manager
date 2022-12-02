@@ -1,3 +1,5 @@
+# After we input the data, they will save on this file.
+
 Amazon | maiphannipa2528@gmail.com | 123456
 Facebook | maiphannipa2528@gmail.com | 98765
 Amzon | maiphannipa2528@gmail.com | 1234
